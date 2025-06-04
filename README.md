@@ -54,4 +54,4 @@ npm run dev
 ```
 
 O projeto estará disponível em `http://localhost:5173/` (ou outra porta disponível).
-Desenvolvido por [David William](https://giithub.com/davidqix)
+Desenvolvido por [David William](https://github.com/davidqix)
