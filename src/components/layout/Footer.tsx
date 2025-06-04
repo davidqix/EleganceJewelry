@@ -26,7 +26,7 @@ const Footer = () => {
         <p className="text-gray-300">
           Desenvolvido por{" "}
           <a
-            href="https://github.com/trydavidqix"
+            href="https://github.com/davidqix"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:text-primary-darker"

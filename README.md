@@ -32,7 +32,7 @@ O layout foi cuidadosamente projetado e implementado utilizando os utilitários 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/trydavidqix/EleganceJewelry.git
+git clone https://github.com/davidqix/EleganceJewelry.git
 ```
 
 1. Navegue até o diretório do projeto:
