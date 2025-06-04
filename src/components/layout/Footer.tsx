@@ -1,9 +1,3 @@
-// Removendo importação de componentes do Hover Card do shadcn/ui
-// import {
-//   HoverCard,
-//   HoverCardContent,
-//   HoverCardTrigger,
-// } from "@/components/ui/hover-card";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();
@@ -26,7 +20,7 @@ const Footer = () => {
         <p className="text-gray-300">
           Desenvolvido por{" "}
           <a
-            href="https://github.com/trydavidqix"
+            href="https://github.com/davidqix"
             target="_blank"
             rel="noopener noreferrer"
             className="text-primary hover:text-primary-darker"
